@@ -1,3 +1,7 @@
-# data/
+data/
+
+**/plots/
+**/checkpoints/
+**/results/
 
 notebooks/.ipynb_checkpoints/
