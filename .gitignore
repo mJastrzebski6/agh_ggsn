@@ -3,5 +3,4 @@ data/
 **/plots/
 **/checkpoints/
 **/results/
-
-notebooks/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
