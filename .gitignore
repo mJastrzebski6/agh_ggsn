@@ -4,5 +4,6 @@ data/
 **/checkpoints/
 **/results/
 **/.ipynb_checkpoints/
+**/reports/
 
 **/model/
