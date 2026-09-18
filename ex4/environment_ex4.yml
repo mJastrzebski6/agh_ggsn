@@ -1,0 +1,20 @@
+name: ggsn_ex4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.2.*
+      - pandas==2.3.*
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - jupyterlab
+      - ipykernel
+      - tqdm
+      - networkx
+      - ogb
+      - umap-learn
+      - python-louvain
+      - torch-geometric==2.7.0

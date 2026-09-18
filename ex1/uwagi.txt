@@ -1,1 +1,0 @@
-Do poprawy: test set do optymalizacji, brak CV w NN

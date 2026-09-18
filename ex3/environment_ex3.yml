@@ -1,0 +1,21 @@
+name: ggsn_ex3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy==1.26.*
+      - pandas==2.3.*
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - jupyterlab
+      - ipykernel
+      - tqdm
+      - wordcloud
+      - tensorflow[and-cuda]==2.19.*
+      - transformers
+      - datasets==2.20.*
+      - evaluate==0.4.2
+      - accelerate==0.33.0
